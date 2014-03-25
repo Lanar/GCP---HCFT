@@ -1,4 +1,4 @@
-GCP---HCFT
+GCP & HCFT
 ==========
 
     提供世界公民平台(Global Citizen Platform)
